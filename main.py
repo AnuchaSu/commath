@@ -30,13 +30,13 @@ class rootFinding(BaseModel):
 
 origins = [
     "*",
-    "https://commath-phattaraphon.herokuapp.com",
-    "https://commath-phattaraphon.herokuapp.com/b2s",
-    "https://commath-phattaraphon.herokuapp.com/elimination",
-    "https://commath-phattaraphon.herokuapp.com/interpolation",
-    "https://commath-phattaraphon.herokuapp.com/differentiation",
-    "https://commath-phattaraphon.herokuapp.com/integration",
-    "https://commath-phattaraphon.herokuapp.com/root-finding"
+    "https://commath-anucha.herokuapp.com/",
+    "https://commath-anucha.herokuapp.com//b2s",
+    "https://commath-anucha.herokuapp.com//elimination",
+    "https://commath-anucha.herokuapp.com//interpolation",
+    "https://commath-anucha.herokuapp.com//differentiation",
+    "https://commath-anucha.herokuapp.com//integration",
+    "https://commath-anucha.herokuapp.com//root-finding"
 
 ]
 
